@@ -1,5 +1,5 @@
-# My website
+# Personal Website
 
-link: https://yl2vq.github.io/Portfolio/
+[Click Here](https://yl2vq.github.io/Portfolio/)
 
 © Nisar
